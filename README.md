@@ -1,5 +1,11 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+MERN+Developer;Crafting+Web+Apps+with+Code+%26+Creativity;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/4d/90/4a4d90df5ef38f15e8ac348bdef5c403.gif" width="400" alt="Laptop typing animation" />
+</p>
 <h1 align="center">Hi there, I'm Shohidul Pramanik</h1>
 
 <p align="center">
