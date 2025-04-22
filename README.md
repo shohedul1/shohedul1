@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/4a/4d/90/4a4d90df5ef38f15e8ac348bdef5c403.gif" width="400" alt="Laptop typing animation" />
 </p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/4a/4d/90/4a4d90df5ef38f15e8ac348bdef5c403.gif" width="400" alt="Laptop typing animation" />
-</p>
 <h1 align="center">Hi there, I'm Shohidul Pramanik</h1>
 
 <p align="center">
